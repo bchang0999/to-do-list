@@ -1,0 +1,14 @@
+.nav{
+  display: flex;
+
+}
+
+.nav__title{
+  /* font-weight: 1860px; */
+  font-size:80px;
+  text-decoration: underline;
+  margin-top: 3%;
+  margin-left: 3%;
+  color:rgb(72, 183, 227);
+}
+
